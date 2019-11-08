@@ -1,0 +1,7 @@
+C:\Users\Dominik\Desktop\ZadaniaStudia\ZadaniaWprowadzenie\ZadaniaWprowadzenie\bin\Debug\ZadaniaWprowadzenie.exe.config
+C:\Users\Dominik\Desktop\ZadaniaStudia\ZadaniaWprowadzenie\ZadaniaWprowadzenie\bin\Debug\ZadaniaWprowadzenie.exe
+C:\Users\Dominik\Desktop\ZadaniaStudia\ZadaniaWprowadzenie\ZadaniaWprowadzenie\bin\Debug\ZadaniaWprowadzenie.pdb
+C:\Users\Dominik\Desktop\ZadaniaStudia\ZadaniaWprowadzenie\ZadaniaWprowadzenie\obj\Debug\ZadaniaWprowadzenie.csprojAssemblyReference.cache
+C:\Users\Dominik\Desktop\ZadaniaStudia\ZadaniaWprowadzenie\ZadaniaWprowadzenie\obj\Debug\ZadaniaWprowadzenie.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\ZadaniaStudia\ZadaniaWprowadzenie\ZadaniaWprowadzenie\obj\Debug\ZadaniaWprowadzenie.exe
+C:\Users\Dominik\Desktop\ZadaniaStudia\ZadaniaWprowadzenie\ZadaniaWprowadzenie\obj\Debug\ZadaniaWprowadzenie.pdb
