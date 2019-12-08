@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibrary1</name>
+    </assembly>
+    <members>
+        <member name="M:ClassLibrary1.Class1.Wyplata(System.Single)">
+            <summary>
+            Wypłata sumy z konta podana w pole Wyplacana suma
+            </summary>
+            <param name="WyplacanaSuma"></param>
+        </member>
+        <member name="M:ClassLibrary1.Class1.Wplata(System.Single)">
+            <summary>
+            Wpłata sumy na konto podana w pole Wplacana suma
+            </summary>
+            <param name="WplacanaSuma"></param>
+        </member>
+        <member name="M:ClassLibrary1.Class1.StanKontaWyswietl">
+            <summary>
+            Wyswietla Stan konta
+            </summary>
+        </member>
+    </members>
+</doc>
